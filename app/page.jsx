@@ -30,7 +30,7 @@ export default function Home() {
         </SheetContent>
       </Sheet>
 
-      <Switch />
+      <Switch/>
 
       <Slider defaultValue={[33]} max={100} step={1} />
 
